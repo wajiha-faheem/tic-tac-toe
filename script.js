@@ -1,5 +1,5 @@
 const cells = document.querySelectorAll(".cell");
-let currentPlayer = "X"; // X starts first
+let currentPlayer = "X"; 
 let gameOver = false;
 
 function handleClick(event) {
